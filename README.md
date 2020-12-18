@@ -4,7 +4,7 @@
 Provides a count of the number of Blue 2 by 4 bricks (ObjectA) and the number of Red 2 by 2 bricks (ObjectB) in such an image. Close-up images of these two types of LEGO brick are displayed below:
 
 
-<img src="ObjectA.jpg" width="250" height="250"> <img src="ObjectB.jpg" width="250" height="250">
+<img src="img/ObjectA.jpg" width="250" height="250"> <img src="img/ObjectB.jpg" width="250" height="250">
 
 
 # IMAGE PROCESSING STEPS
@@ -18,7 +18,7 @@ generate image properties such as the area and perimeter of the blobs.
 Thec classification is based on the magnitude of the areas of the blobs.
 
 <img src="training_images/train01.jpg" width="750" height="500">
-<img src="processing.jpg">
+<img src="img/processing.jpg">
 
 # FUTURE TASKS:
 - [ ] Look into a combination of using areas and shape recognition for the classification stage
